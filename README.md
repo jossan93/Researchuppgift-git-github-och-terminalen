@@ -1,6 +1,6 @@
 # Researchuppgift-git-github-och-terminalen
 
-Jag har inte arbetat med terminalen tidigare så alla kommandon har varit nya för mig. Jag kollade på videorna som ligger på canvas innan föreläsningen,så när de gicks igenom på föreläsningen kännde jag igen några då.
+*Jag har inte arbetat med terminalen tidigare så alla kommandon har varit nya för mig. Jag kollade på videorna som ligger på canvas innan föreläsningen,så när de gicks igenom på föreläsningen kännde jag igen några då.*
 
 ## Terminal kommandon
 
@@ -22,3 +22,10 @@ Jag har inte arbetat med terminalen tidigare så alla kommandon har varit nya f�
 **git branch** visar alla brancher<br>
 **git branch** branch_name skapar en ny branch och branchets namn<br>
 **git merge** kombinerar två olika brancher<br>
+
+## Markdown
+Har läst igenom delen hacks och testa med att <ins>vissa delar kan få understruket<ins><br>
+<center><font color="green">eller få det att se ut så här</font></center>
+
+## links
+<a href="https://www.geeksforgeeks.org/git-cheat-sheet/" target="_blank">git commands cheat sheet</a>
